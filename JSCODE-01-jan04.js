@@ -15,6 +15,7 @@ let myNumber2 = 123;
 // Declare a string
 let myString = "Hello, world!";
 
+
 // Declare a boolean
 let myBoolean = true;
 
